@@ -9,3 +9,8 @@ User will input his desired binary sequence.
 The program will take input until the user has entered -1 
 Upon entering -1 the Function will display the List after calling the delete Sub sequence function 
 
+----------------------------------------------------------------------------------
+Input: 1->1->0->0->1->0->1  |   1->0->0->0->1->1->0    |   0->1->1->1   |    1->0 |
+-----------------------------------------------------------------------------------
+Output: 1->1                |    1                     |   0->1->1->1   |    null |
+-----------------------------------------------------------------------------------
